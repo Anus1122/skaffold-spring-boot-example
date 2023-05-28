@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.techprimers</groupId>
-	<artifactId>skaffold-spring-boot-example</artifactId>
+	<artifactId>kubespring.azurecr.io\skaffold-spring-boot-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>skaffold-spring-boot-example</name>
 	<description>Demo project for Spring Boot</description>
